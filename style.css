@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 1400px;
+    height: 800px;
+    background-color: #faaf08   ;
+}
+#boxA{
+    float: left;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+img{
+    width: 400px;
+    height: 450px;
+    border-radius: 15px;
+}
+#boxB{
+    float: right;
+    margin-top: 80px;
+    margin-right: 250px;
+    width: 400px;
+    height: 450px;
+    border-radius: 15px;
+    background-image: url(1535070.jpg);
+    background-repeat: round;
+    padding-top: 300px;
+    padding-left: 20px;
+    color: grey;
+    font-weight: 400;
+}
+button{
+    background: grey;
+    color: ivory;
+    border: none;
+    width: 80px;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
